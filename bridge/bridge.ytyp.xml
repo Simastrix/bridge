@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CMapTypes>
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-5.3125" y="-31.82617" z="-5.086914" />
+      <bbMax x="5.3125" y="31.8291" z="5.086914" />
+      <bsCentre x="0.0" y="0.0014648438" z="0.0" />
+      <bsRadius value="32.666462" />
+      <hdTextureDist value="40" />
+      <name>bridge</name>
+      <physicsDictionary>bridge</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>bridge</assetName>
+    </Item>
+  </archetypes>
+  <name>bridge</name>
+</CMapTypes>
